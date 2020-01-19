@@ -1,6 +1,6 @@
 # Project UAS Bahasa Pemrograman
-silakan tuliskan langkah-langkah disertai screenshotnya
+screenshotnya
 
-![](SCREENSHOT.jpg)
 ![](screenshot1.jpg)
+![](SCREENSHOT.jpg)
 Terimakasih Pak
